@@ -1,7 +1,5 @@
 import streamlit as st
-from logic.linear_regression import preparer,scaler,train_model,predict
-import plotly.express as px
-import numpy as np
+from logic.linear_regression import scaler,train_model,predict
 
 st.set_page_config(
     page_title="Prediction temperature",

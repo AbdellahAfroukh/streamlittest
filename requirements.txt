@@ -1,0 +1,10 @@
+plotly
+pandas
+folium
+geopy
+streamlit_folium
+openmeteo_requests
+requests_cache
+retry_requests
+sklearn
+time
