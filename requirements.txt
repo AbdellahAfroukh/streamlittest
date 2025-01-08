@@ -6,5 +6,5 @@ streamlit_folium
 openmeteo_requests
 requests_cache
 retry_requests
-sklearn
+scikit-learn
 time
